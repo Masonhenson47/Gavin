@@ -1,0 +1,15 @@
+h1{
+  font-family: cursive;
+  color: blue;
+}
+img{
+  border-style: double;
+  border-width: 10px;
+  border-color: red;
+  border-radius: 70px;
+}
+p{
+  font-family: sans-serif;
+  background-color: black;
+  color: inherit;
+}
